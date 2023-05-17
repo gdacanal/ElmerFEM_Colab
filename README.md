@@ -1,7 +1,7 @@
 # ElmerFEM_Colab
 # Execute ElmerFEM's Flow Step example in Google Colab.
 This core code is currently under development and aims to utilize the ElmerFEM and Google Colab platform for educational purposes. 
-It enables running ElmerFEM online directly from the GitHub repository, eliminating the need for any software installation.
+It enables running ElmerFEM online directly from the GitHub repository, eliminating the need for extra software installation.
 Suitable for teaching Finite Element Method (FEM) in classes.
 
 # Contributions are welcome:
